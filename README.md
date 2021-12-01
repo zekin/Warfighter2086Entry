@@ -1,2 +1,8 @@
 # Warfighter2086Entry
-test
+Itch.io game jam entry for 2021
+# Controls
+Right-click to aim
+Left-click to shoot
+
+space to melee
+
